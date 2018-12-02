@@ -17,6 +17,24 @@ print(" \n Total Python repositories on GitHub are:", response_dict['total_count
 repo_dicts = response_dict['items']
 print( "\n Returned ", len(repo_dicts) ," Python repositories" )
 
+
+names, stars = [], []
+for repo_dict in repo_dicts:
+    names.append(repo_dict['name'])
+    stars.append(repo_dict['stargazers_count'])
+
+#We now make the visualization 
+my_style = LS('#333366', base_style=LCS)
+chart = pygal.Bar( style=my_style, x_label_rotation=45, show_legend=False)
+chart.title = "Most-Starred Python Projects on Git-Hub"
+chart.x_labels = names
+
+chart.add('',stars)
+chart.render_to_file("python_repos_GitHub.svg")
+
+
+
+
 #Examine the first repository
 #repo_dict = repo_dicts[0]
 #print(" \nKeys:", len(repo_dict))
@@ -34,6 +52,9 @@ for repo_dict in repo_dicts:
     print('Created:', repo_dict['created_at'])
     print('Updated:', repo_dict['updated_at'])
     print('Description:', repo_dict['description'])
+
+
+
 
 
 
