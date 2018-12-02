@@ -1,5 +1,6 @@
 import requests
-
+import pygal
+from pygal.style import LightColorizedStyle as LCS, LightenStyle as LS
 
 #We make an API call and store the response
 url = 'https://api.github.com/search/repositories?q=language:python&sort=stars'
@@ -24,14 +25,16 @@ print( "\n Returned ", len(repo_dicts) ," Python repositories" )
 
 #We then print selected information about each repostiory
 print("\nSelected information about first repository:")
-print('Name:', repo_dict['name'])
-print('Owner:', repo_dict['owner']['login'])
- 
-print('Stars:', repo_dict['stargazers_count'])
-print('Repository:', repo_dict['html_url'])
-print('Created:', repo_dict['created_at'])
-print('Updated:', repo_dict['updated_at'])
-print('Description:', repo_dict['description'])
+for repo_dict in repo_dicts:
+    print('Name:', repo_dict['name'])
+    print('Owner:', repo_dict['owner']['login'])
+    
+    print('Stars:', repo_dict['stargazers_count'])
+    print('Repository:', repo_dict['html_url'])
+    print('Created:', repo_dict['created_at'])
+    print('Updated:', repo_dict['updated_at'])
+    print('Description:', repo_dict['description'])
+
 
 
 
