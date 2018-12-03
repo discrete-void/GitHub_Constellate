@@ -73,11 +73,7 @@ chart.render_to_file("python_repos_GitHub.svg")
 
 
 
-#Examine the first repository
-#repo_dict = repo_dicts[0]
-#print(" \nKeys:", len(repo_dict))
-#for key in sorted(repo_dict.keys()):
-#    print(key)
+
 
 #We then print selected information about each repostiory
 #print("\nSelected information about first repository:")
