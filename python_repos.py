@@ -75,17 +75,6 @@ chart.render_to_file("python_repos_GitHub.svg")
 
 
 
-#We then print selected information about each repostiory
-#print("\nSelected information about first repository:")
-#for repo_dict in repo_dicts:
-#    print('Name:', repo_dict['name'])
-#    print('Owner:', repo_dict['owner']['login'])
-#    print('Stars:', repo_dict['stargazers_count'])
-#    print('Repository:', repo_dict['html_url'])
-#    print('Created:', repo_dict['created_at'])
-#    print('Updated:', repo_dict['updated_at'])
-#    print('Description:', repo_dict['description'])
-
 
 
 
