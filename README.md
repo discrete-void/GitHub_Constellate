@@ -1,11 +1,11 @@
-Python's Most Starred On :two_hearts:GitHub:two_hearts: 
+Python's Most Starred On  :two_hearts:GitHub:two_hearts: 
 =======================================================
 
 
-### Project Description 
-_______________________
+### Project Description :scroll:
+________________________________
 The script ```python_repos.py```  checks GitHub for 
-the most starred python repositories by communicating with
+the most starred python repositories by communicating with.
 [GitHub's API](https://api.github.com/search/repositories?q=language:python&sort=stars "https://api.github.com/search/repositories?q=language:python&sort=stars")
 and renders the result to an [SVG](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics "") file using 
 [Pygal](https://github.com/Kozea/pygal "Pygal's GitHub Repo")
