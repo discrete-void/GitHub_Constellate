@@ -1,5 +1,5 @@
-Python's Most Starred On GitHub
-===============================
+Python's Most Starred On GitHub :octocat:
+=========================================
 
 
 ### Project Description 
@@ -15,7 +15,8 @@ This project was made in a bid to participate in [MLH]( https://localhackday.mlh
 
 <br>
 <br>
-__ Screenshot of the most starred python repos on GitHub as at December 1st 2018. __
+
+## Screenshot of the most starred python repos on GitHub as at December 1st 2018.
 
 ![Image Screenshot](view.png "Screen-Shot of SVG rendered result")
 
@@ -25,7 +26,7 @@ _________________________
 
 3. Run the following command ```python python_repos.py``` in your interpreter.
 
-## <strong>That's all :tada: :tada: :tada:</strong>
+## <strong>:tada: :tada: :tada: That's all :tada: :tada: :tada:</strong>
 __________________________________________________
 
 <em>Don't forget to add your contributions by making pull requests, I will make sure I merge them once I have the time after they've been analysed.<br>
