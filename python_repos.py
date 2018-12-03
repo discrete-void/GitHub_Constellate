@@ -68,19 +68,3 @@ chart.x_labels = names
 chart.add('',plot_dicts)
 chart.render_to_file("python_repos_GitHub.svg")
 # chart.render_to_file("python_repositories_GitHub.svg")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
