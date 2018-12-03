@@ -46,7 +46,7 @@ for repo_dict in repo_dicts:
     plot_dicts.append(plot_dict)
 
 #We now make the visualization 
-my_style = LS('#646464', base_style=LCS)
+my_style = LS('#FFA500', base_style=LCS)
 my_style.title_font_size = 24
 my_style.label_font_size = 14
 my_style.major_label_font_size = 18
