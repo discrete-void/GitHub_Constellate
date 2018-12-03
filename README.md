@@ -1,5 +1,5 @@
-Python's Most Starred On GitHub :octocat:
-=========================================
+Python's Most Starred On :two_hearts:GitHub:two_hearts: 
+=======================================================
 
 
 ### Project Description 
@@ -20,11 +20,13 @@ This project was made in a bid to participate in [MLH]( https://localhackday.mlh
 
 ![Image Screenshot](view.png "Screen-Shot of SVG rendered result")
 
-### How to use the script.
-_________________________
+### How to use the script :closed_book:.
+________________________________________
 1. You'll need to have python installed on your machine and you have to be connected to the internet.
 
 3. Run the following command ```python python_repos.py``` in your interpreter.
+
+4. The SVG file will be generated and you can view the graphical output using your browser :wine_glass:
 
 ## <strong>:tada: :tada: :tada: That's all :tada: :tada: :tada:</strong>
 __________________________________________________
