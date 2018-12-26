@@ -15,7 +15,7 @@ The SVG file can be visualized in a browser as a Bar-Chart.
 
 ## Screenshot of the most starred python repos on GitHub as at December 1st 2018.
 
-![Image Screenshot](view.png "Screen-Shot of SVG rendered result")
+![Image Screenshot](index.svg "SVG rendered result")
 
 ### How to use the script.
 ________________________________________
