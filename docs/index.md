@@ -26,12 +26,11 @@ ________________________________________
 ## <strong> That's all</strong>
 __________________________________________________
 
-<em>Don't forget to add your contributions by making pull requests, I will make sure I merge them once I have the time after they've been analysed.<br>
+Don't forget to add your contributions by making pull requests, I will make sure I merge them once I have the time after they've been analysed.<br>
 
 Don't forget to the repo if you think this project is cool!!!
 
-</em>
 
-Let's connect on LinkedIn if you want to :wink: [Connect On LinkedIn]( https://www.linkedin.com/in/chukwu-daniel-chibueze/ "   LinkedIn")
+Let's connect on LinkedIn if you want to [Connect On LinkedIn]( https://www.linkedin.com/in/chukwu-daniel-chibueze/ "   LinkedIn")
 
 
