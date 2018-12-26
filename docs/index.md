@@ -8,8 +8,7 @@ the most starred python repositories by communicating with
 and renders the result to an [SVG](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics "") file using 
 [Pygal](https://github.com/Kozea/pygal "Pygal's GitHub Repo").
 The SVG file can be visualized in a browser as a Bar-Chart.
-<br>
-<br>
+
 
 ## Screenshot of the most starred python repos on GitHub as at December 1st 2018.
 
