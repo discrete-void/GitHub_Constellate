@@ -1,18 +1,15 @@
-Python's Most Starred On  :two_hearts:GitHub:two_hearts: 
-=======================================================
+Git_Hub_Constellate 
+===================
 
 
-### Project Description :scroll:
-________________________________
+### Project Description
+_______________________
 The script ```python_repos.py```  checks GitHub for 
 the most starred python repositories by communicating with
 [GitHub's API](https://api.github.com/search/repositories?q=language:python&sort=stars "https://api.github.com/search/repositories?q=language:python&sort=stars")
 and renders the result to an [SVG](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics "") file using 
 [Pygal](https://github.com/Kozea/pygal "Pygal's GitHub Repo").
 The SVG file can be visualized in a browser as a Bar-Chart.
-
-This project was made in a bid to participate in [MLH]( https://localhackday.mlh.io/ "") Local Hack Day Hackaton 2018 hosted by GitHub.
-
 <br>
 <br>
 
@@ -20,7 +17,7 @@ This project was made in a bid to participate in [MLH]( https://localhackday.mlh
 
 ![Image Screenshot](view.png "Screen-Shot of SVG rendered result")
 
-### How to use the script :closed_book:.
+### How to use the script.
 ________________________________________
 1. You'll need to have python installed on your machine and you have to be connected to the internet.
 
@@ -28,12 +25,12 @@ ________________________________________
 
 4. The SVG file will be generated and you can view the graphical output using your browser :wine_glass:
 
-## <strong>:tada: :tada: :tada: That's all :tada: :tada: :tada:</strong>
+## <strong> That's all</strong>
 __________________________________________________
 
 <em>Don't forget to add your contributions by making pull requests, I will make sure I merge them once I have the time after they've been analysed.<br>
 
-Don't forget to :star: the repo if you think this project is cool!!!
+Don't forget to the repo if you think this project is cool!!!
 
 </em>
 
