@@ -33,7 +33,7 @@ __________________________________________________
 
 <em>Don't forget to add your contributions by making pull requests, I will make sure I merge them once I have the time after they've been analysed.<br>
 
-Don't forget to start the repo if you think this project is cool :emoji_with_sunglass: cool!!!
+Don't forget to :star: the repo if you think this project is cool!!!
 
 </em>
 
