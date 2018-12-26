@@ -20,7 +20,7 @@ ________________________________________
 
 3. Run the following command ```python python_repos.py``` in your interpreter.
 
-4. The SVG file will be generated and you can view the graphical output using your browser :wine_glass:
+4. The SVG file will be generated and you can view the graphical output using your browser.
 
 ## <strong> That's all</strong>
 __________________________________________________
