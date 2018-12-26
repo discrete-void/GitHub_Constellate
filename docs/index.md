@@ -1,5 +1,3 @@
-Git_Hub_Constellate 
-===================
 
 
 ### Project Description
